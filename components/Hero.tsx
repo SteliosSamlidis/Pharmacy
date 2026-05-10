@@ -10,8 +10,8 @@ export default function Hero() {
       className="relative min-h-screen flex flex-col items-center justify-center px-6 overflow-hidden bg-cream"
     >
       {/* Decorative background ring */}
-      <div className="absolute w-[600px] h-[600px] rounded-full border border-sand/30 top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 pointer-events-none" />
-      <div className="absolute w-[900px] h-[900px] rounded-full border border-sand/15 top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 pointer-events-none" />
+      <div className="absolute w-[750px] h-[750px] rounded-full border border-sand/30 top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 pointer-events-none" />
+      <div className="absolute w-[1050px] h-[1050px] rounded-full border border-sand/15 top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 pointer-events-none" />
 
       {/* Leaf motif */}
       <motion.div
